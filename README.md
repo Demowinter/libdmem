@@ -1,2 +1,2 @@
 # libdmem
-My own implementation malloc/free functions for arduino.
+My own naive implementation malloc/free functions for arduino.
